@@ -3,7 +3,7 @@
 //  senealukard-app
 //
 //  Created by Kürsat Yüksel on 22.10.2025.
-//
+// ......AS
 
 import SwiftUI
 import SwiftData
